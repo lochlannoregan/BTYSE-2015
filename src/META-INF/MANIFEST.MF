@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: src.com.xlorx.bigdatamonitor.Application
+Class-Path: com.xlorx.bigdatamonitor.libs.log4j.jar com.xlorx.bigdatamonitor.libs.sigar.jar
+
+
