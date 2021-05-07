@@ -14,11 +14,7 @@ public class Application {
 
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
-
-            		// Random Comment for testing
-
                 runApplication();
-
             }
         });
     }
